@@ -7,7 +7,7 @@ A curated list of Channel Foundation Models (CFMs) that demonstrates how **AI em
 - Welcome to contact us to add your own work or other excellent CFMs to this list! We will review and update it in a timely manner.
 - For any questions, suggestions or corrections, please open an issue or contact the maintainers.
 
-Last Updated: March 10, 2026
+Last Updated: March 18, 2026
 
 ## Contents
 
@@ -28,6 +28,12 @@ Last Updated: March 10, 2026
 - **[Towards channel foundation models (CFMs): Motivations, methodologies and opportunities](https://arxiv.org/abs/2507.13637)**
   - **Paper Authors**: `Jun Jiang, Yuan Gao, Xinyi Wu, Shugong Xu`
   - **Summary**: This paper introduces the concept of channel foundation models (CFMs) for the first time, providing a comprehensive survey on motivations, methodologies, and future opportunities.
+
+- **[6G Native AI and Channel Foundation Models](docs/6G%20Native%20AI%20and%20Channel%20Foundation%20Models.pdf)**
+  - **Paper Authors**: `Shugong Xu, Jun Jiang`
+  - **Summary**: t proposes Channel Foundation Models (CFMs), which are designed to possess strong task adaptability and scenario generalization capabilities. By using pre-training and adaptation methods, CFMs are expected to become a key technical option for enabling the versatile and intelligent communication required in 6G systems.
+  - **Note**: This paper is written in Chinese and can be found on CNKI (China National Knowledge Infrastructure), a key national information resource in China that provides access to a wide range of academic literature.
+
 
 ## Generative Pretraining Approaches
 
